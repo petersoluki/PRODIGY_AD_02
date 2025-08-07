@@ -41,7 +41,7 @@ A beginner-friendly Flutter Todo App that allows users to add, complete, and del
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/petersoluki/PRODIGY_AD_01.git
+   git clone https://github.com/petersoluki/PRODIGY_AD_02.git
    cd PRODIGY_AD_02
    ```
 
